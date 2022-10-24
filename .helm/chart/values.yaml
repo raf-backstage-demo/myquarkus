@@ -1,0 +1,4 @@
+quarkus-run:
+  fullnameOverride: myquarkus
+  image:
+    repository: quay.io/raf-backstage-demo/myquarkus

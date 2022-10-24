@@ -1,0 +1,8 @@
+site_name: "myquarkus"
+site_description: "myquarkus"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
